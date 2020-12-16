@@ -40,7 +40,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MuziekLijstEmreAyar/MuziekCSS.css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Oefeningen/Button/Button.html" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -56,7 +57,29 @@
       <workItem from="1604620894967" duration="2936000" />
       <workItem from="1604713506581" duration="6036000" />
       <workItem from="1604808735006" duration="2383000" />
-      <workItem from="1604926793529" duration="5044000" />
+      <workItem from="1604926793529" duration="5664000" />
+      <workItem from="1605091769542" duration="53000" />
+      <workItem from="1605274722153" duration="1061000" />
+      <workItem from="1605559506303" duration="3831000" />
+      <workItem from="1605778852631" duration="332000" />
+      <workItem from="1605811620084" duration="4637000" />
+      <workItem from="1605897676101" duration="4398000" />
+      <workItem from="1606047716324" duration="11799000" />
+      <workItem from="1606586898177" duration="1972000" />
+      <workItem from="1607090071949" duration="4911000" />
+      <workItem from="1607251299324" duration="357000" />
+      <workItem from="1607252818463" duration="1043000" />
+      <workItem from="1607304961203" duration="2992000" />
+      <workItem from="1607325866779" duration="1304000" />
+      <workItem from="1607329890579" duration="7647000" />
+      <workItem from="1607517192469" duration="4397000" />
+      <workItem from="1607691098975" duration="1153000" />
+      <workItem from="1607693930297" duration="2408000" />
+      <workItem from="1607947386635" duration="3872000" />
+      <workItem from="1608030790727" duration="2618000" />
+      <workItem from="1608058111714" duration="2090000" />
+      <workItem from="1608060332458" duration="1604000" />
+      <workItem from="1608146464188" duration="2491000" />
     </task>
     <task id="LOCAL-00001" summary="CV html">
       <created>1604069416441</created>
@@ -86,7 +109,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604812376206</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="CV in html en css opdracht">
+      <created>1604933054292</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604933054292</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,13 +144,21 @@
       <screen x="62" y="0" width="1304" height="768" />
     </state>
     <state x="340" y="62" key="#Inspections/62.0.1304.768@62.0.1304.768" timestamp="1604929544743" />
-    <state x="494" y="139" key="FileChooserDialogImpl" timestamp="1604715836440">
+    <state x="494" y="139" key="FileChooserDialogImpl" timestamp="1608061938349">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state x="494" y="139" key="FileChooserDialogImpl/62.0.1304.768@62.0.1304.768" timestamp="1604715836440" />
-    <state x="306" y="117" key="Vcs.Push.Dialog.v2" timestamp="1604812384905">
+    <state x="494" y="139" key="FileChooserDialogImpl/62.0.1304.768@62.0.1304.768" timestamp="1608061938349" />
+    <state x="215" y="29" key="SettingsEditor" timestamp="1605779096935">
       <screen x="62" y="0" width="1304" height="768" />
     </state>
-    <state x="306" y="117" key="Vcs.Push.Dialog.v2/62.0.1304.768@62.0.1304.768" timestamp="1604812384905" />
+    <state x="215" y="29" key="SettingsEditor/62.0.1304.768@62.0.1304.768" timestamp="1605779096935" />
+    <state x="306" y="117" key="Vcs.Push.Dialog.v2" timestamp="1604933060062">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="306" y="117" key="Vcs.Push.Dialog.v2/62.0.1304.768@62.0.1304.768" timestamp="1604933060062" />
+    <state x="377" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1605815650174">
+      <screen x="62" y="0" width="1304" height="768" />
+    </state>
+    <state x="377" y="89" width="672" height="678" key="search.everywhere.popup/62.0.1304.768@62.0.1304.768" timestamp="1605815650174" />
   </component>
 </project>
